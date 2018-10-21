@@ -106,12 +106,11 @@ Any DNS or IP address running DelphiniumCoin can be added to the list by simply 
 
 delphiniumcoin.chickenkiller.com:4100
 
-<your neighbours internet address>
+your neighbours internet address
 
-<your mother's internet address>
+your mother's internet address
 
-<something special>:<port>
-
+something special:port
 
 For example:
 
