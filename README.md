@@ -105,15 +105,22 @@ be added automatically inside the software if omitted.
 Any DNS or IP address running DelphiniumCoin can be added to the list by simply adding the new address on a new line for example:
 
 delphiniumcoin.chickenkiller.com:4100
+
 <your neighbours internet address>
+
 <your mother's internet address>
+
 <something special>:<port>
+
 
 For example:
 
 delphiniumcoin.chickenkiller.com:4100
+
 212.23.23.124
+
 34.23.32.65
+
 43.65.232:6000
 
 The port number can be specified in case delphiniumcoin needs to run on a different port on other computers.
